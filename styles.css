@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+<style>
+        /* Style for the navigation bar */
+        .navbar {
+            background-color: #D3D3D3;
+            padding: 10px;
+        }
+
+        /* Style for the list items */
+        .navbar ul {
+            list-style: none;
+        }
+
+        .navbar li {
+            display: inline;
+            margin-right: 1rem;
+        }
+    </style>
